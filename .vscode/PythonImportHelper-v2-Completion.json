@@ -1,0 +1,1445 @@
+[
+    {
+        "label": "flask_jwt_extended",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "JWTManager",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.User",
+        "description": "models.User",
+        "isExtraImport": true,
+        "detail": "models.User",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.User",
+        "description": "models.User",
+        "isExtraImport": true,
+        "detail": "models.User",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.User",
+        "description": "models.User",
+        "isExtraImport": true,
+        "detail": "models.User",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.User",
+        "description": "models.User",
+        "isExtraImport": true,
+        "detail": "models.User",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "models.Profile",
+        "description": "models.Profile",
+        "isExtraImport": true,
+        "detail": "models.Profile",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "models.Profile",
+        "description": "models.Profile",
+        "isExtraImport": true,
+        "detail": "models.Profile",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "models.Profile",
+        "description": "models.Profile",
+        "isExtraImport": true,
+        "detail": "models.Profile",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "models.Profile",
+        "description": "models.Profile",
+        "isExtraImport": true,
+        "detail": "models.Profile",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "models.Profile",
+        "description": "models.Profile",
+        "isExtraImport": true,
+        "detail": "models.Profile",
+        "documentation": {}
+    },
+    {
+        "label": "profile_schema",
+        "importPath": "schemas.ProfileSchema",
+        "description": "schemas.ProfileSchema",
+        "isExtraImport": true,
+        "detail": "schemas.ProfileSchema",
+        "documentation": {}
+    },
+    {
+        "label": "profiles_schema",
+        "importPath": "schemas.ProfileSchema",
+        "description": "schemas.ProfileSchema",
+        "isExtraImport": true,
+        "detail": "schemas.ProfileSchema",
+        "documentation": {}
+    },
+    {
+        "label": "profile_schema",
+        "importPath": "schemas.ProfileSchema",
+        "description": "schemas.ProfileSchema",
+        "isExtraImport": true,
+        "detail": "schemas.ProfileSchema",
+        "documentation": {}
+    },
+    {
+        "label": "profiles_schema",
+        "importPath": "schemas.ProfileSchema",
+        "description": "schemas.ProfileSchema",
+        "isExtraImport": true,
+        "detail": "schemas.ProfileSchema",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "importPath": "models.Comment",
+        "description": "models.Comment",
+        "isExtraImport": true,
+        "detail": "models.Comment",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "importPath": "models.Comment",
+        "description": "models.Comment",
+        "isExtraImport": true,
+        "detail": "models.Comment",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "importPath": "models.Comment",
+        "description": "models.Comment",
+        "isExtraImport": true,
+        "detail": "models.Comment",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "importPath": "models.Comment",
+        "description": "models.Comment",
+        "isExtraImport": true,
+        "detail": "models.Comment",
+        "documentation": {}
+    },
+    {
+        "label": "Sub",
+        "importPath": "models.Sub",
+        "description": "models.Sub",
+        "isExtraImport": true,
+        "detail": "models.Sub",
+        "documentation": {}
+    },
+    {
+        "label": "Sub",
+        "importPath": "models.Sub",
+        "description": "models.Sub",
+        "isExtraImport": true,
+        "detail": "models.Sub",
+        "documentation": {}
+    },
+    {
+        "label": "Sub",
+        "importPath": "models.Sub",
+        "description": "models.Sub",
+        "isExtraImport": true,
+        "detail": "models.Sub",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "models.Post",
+        "description": "models.Post",
+        "isExtraImport": true,
+        "detail": "models.Post",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "models.Post",
+        "description": "models.Post",
+        "isExtraImport": true,
+        "detail": "models.Post",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "models.Post",
+        "description": "models.Post",
+        "isExtraImport": true,
+        "detail": "models.Post",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "models.Post",
+        "description": "models.Post",
+        "isExtraImport": true,
+        "detail": "models.Post",
+        "documentation": {}
+    },
+    {
+        "label": "sub_schema",
+        "importPath": "schemas.SubsSchema",
+        "description": "schemas.SubsSchema",
+        "isExtraImport": true,
+        "detail": "schemas.SubsSchema",
+        "documentation": {}
+    },
+    {
+        "label": "subs_schema",
+        "importPath": "schemas.SubsSchema",
+        "description": "schemas.SubsSchema",
+        "isExtraImport": true,
+        "detail": "schemas.SubsSchema",
+        "documentation": {}
+    },
+    {
+        "label": "subs_schema",
+        "importPath": "schemas.SubsSchema",
+        "description": "schemas.SubsSchema",
+        "isExtraImport": true,
+        "detail": "schemas.SubsSchema",
+        "documentation": {}
+    },
+    {
+        "label": "post_schema",
+        "importPath": "schemas.PostSchema",
+        "description": "schemas.PostSchema",
+        "isExtraImport": true,
+        "detail": "schemas.PostSchema",
+        "documentation": {}
+    },
+    {
+        "label": "posts_schema",
+        "importPath": "schemas.PostSchema",
+        "description": "schemas.PostSchema",
+        "isExtraImport": true,
+        "detail": "schemas.PostSchema",
+        "documentation": {}
+    },
+    {
+        "label": "posts_schema",
+        "importPath": "schemas.PostSchema",
+        "description": "schemas.PostSchema",
+        "isExtraImport": true,
+        "detail": "schemas.PostSchema",
+        "documentation": {}
+    },
+    {
+        "label": "joinedload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "backref",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "backref",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "comment_schema",
+        "importPath": "src.schemas.CommentSchema",
+        "description": "src.schemas.CommentSchema",
+        "isExtraImport": true,
+        "detail": "src.schemas.CommentSchema",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "importPath": "schemas.UserSchema",
+        "description": "schemas.UserSchema",
+        "isExtraImport": true,
+        "detail": "schemas.UserSchema",
+        "documentation": {}
+    },
+    {
+        "label": "user_schema",
+        "importPath": "schemas.UserSchema",
+        "description": "schemas.UserSchema",
+        "isExtraImport": true,
+        "detail": "schemas.UserSchema",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "importPath": "schemas.UserSchema",
+        "description": "schemas.UserSchema",
+        "isExtraImport": true,
+        "detail": "schemas.UserSchema",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "isExtraImport": true,
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "profiles",
+        "importPath": "controllers.profiles_controller",
+        "description": "controllers.profiles_controller",
+        "isExtraImport": true,
+        "detail": "controllers.profiles_controller",
+        "documentation": {}
+    },
+    {
+        "label": "subs",
+        "importPath": "controllers.subs_controller",
+        "description": "controllers.subs_controller",
+        "isExtraImport": true,
+        "detail": "controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "UserMixin",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "LoginManager",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "marshmallow.validate",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "marshmallow.validate",
+        "description": "marshmallow.validate",
+        "detail": "marshmallow.validate",
+        "documentation": {}
+    },
+    {
+        "label": "Length",
+        "importPath": "marshmallow.validate",
+        "description": "marshmallow.validate",
+        "isExtraImport": true,
+        "detail": "marshmallow.validate",
+        "documentation": {}
+    },
+    {
+        "label": "Length",
+        "importPath": "marshmallow.validate",
+        "description": "marshmallow.validate",
+        "isExtraImport": true,
+        "detail": "marshmallow.validate",
+        "documentation": {}
+    },
+    {
+        "label": "Length",
+        "importPath": "marshmallow.validate",
+        "description": "marshmallow.validate",
+        "isExtraImport": true,
+        "detail": "marshmallow.validate",
+        "documentation": {}
+    },
+    {
+        "label": "Length",
+        "importPath": "marshmallow.validate",
+        "description": "marshmallow.validate",
+        "isExtraImport": true,
+        "detail": "marshmallow.validate",
+        "documentation": {}
+    },
+    {
+        "label": "Length",
+        "importPath": "marshmallow.validate",
+        "description": "marshmallow.validate",
+        "isExtraImport": true,
+        "detail": "marshmallow.validate",
+        "documentation": {}
+    },
+    {
+        "label": "comments_schema",
+        "importPath": "schemas.CommentSchema",
+        "description": "schemas.CommentSchema",
+        "isExtraImport": true,
+        "detail": "schemas.CommentSchema",
+        "documentation": {}
+    },
+    {
+        "label": "comments_schema",
+        "importPath": "schemas.CommentSchema",
+        "description": "schemas.CommentSchema",
+        "isExtraImport": true,
+        "detail": "schemas.CommentSchema",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "validate",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "Helpers",
+        "importPath": "tests.helpers",
+        "description": "tests.helpers",
+        "isExtraImport": true,
+        "detail": "tests.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "new_class",
+        "importPath": "types",
+        "description": "types",
+        "isExtraImport": true,
+        "detail": "types",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Marshmallow",
+        "importPath": "flask_marshmallow",
+        "description": "flask_marshmallow",
+        "isExtraImport": true,
+        "detail": "flask_marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Bcrypt",
+        "importPath": "flask_bcrypt",
+        "description": "flask_bcrypt",
+        "isExtraImport": true,
+        "detail": "flask_bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "get_profile",
+        "kind": 2,
+        "importPath": "src.controllers.profiles_controller",
+        "description": "src.controllers.profiles_controller",
+        "peekOfCode": "def get_profile():\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    profile = Profile.query.filter_by(user_id=user.user_id)\n    return jsonify(profile_schema.dump(profile))\n@profiles.route(\"/<int:id>\", methods=[\"GET\"])\n@jwt_required\ndef get_profile_by_id(id):",
+        "detail": "src.controllers.profiles_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_profile_by_id",
+        "kind": 2,
+        "importPath": "src.controllers.profiles_controller",
+        "description": "src.controllers.profiles_controller",
+        "peekOfCode": "def get_profile_by_id(id):\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    profile = Profile.query.filter_by(profile_id=id, user_id=user.user_id)\n    if profile.count() != 1:\n        return abort(404, description=\"No profile found\")\n    return jsonify(profile_schema.dump(profile[0]))\n@profiles.route(\"/create\", methods=[\"POST\"])",
+        "detail": "src.controllers.profiles_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_profile",
+        "kind": 2,
+        "importPath": "src.controllers.profiles_controller",
+        "description": "src.controllers.profiles_controller",
+        "peekOfCode": "def create_profile():\n    profile_fields = profile_schema.load(request.json)\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    new_profile = Profile()\n    new_profile.username = profile_fields[\"username\"]\n    new_profile.about = profile_fields[\"about\"]\n    user.profiles.append(new_profile)",
+        "detail": "src.controllers.profiles_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_profile",
+        "kind": 2,
+        "importPath": "src.controllers.profiles_controller",
+        "description": "src.controllers.profiles_controller",
+        "peekOfCode": "def update_profile():\n    profile_fields = profile_schema.load(request.json, partial=True)\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    profile = Profile.query.filter_by(profile_id=id, user_id=user.user_id)\n    if profile.count() != 1:\n        return abort(401, description=\"No profile found for your user\")\n    profile.update(profile_fields)",
+        "detail": "src.controllers.profiles_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_profile",
+        "kind": 2,
+        "importPath": "src.controllers.profiles_controller",
+        "description": "src.controllers.profiles_controller",
+        "peekOfCode": "def delete_profile():\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    profile = Profile.query.filter_by(profile_id=id, user_id=user.user_id).first()\n    if profile.count() != 1:\n        return abort(401, description=\"No profile found for your user\")\n    db.session.delete(profile)\n    db.session.commit()",
+        "detail": "src.controllers.profiles_controller",
+        "documentation": {}
+    },
+    {
+        "label": "profiles",
+        "kind": 5,
+        "importPath": "src.controllers.profiles_controller",
+        "description": "src.controllers.profiles_controller",
+        "peekOfCode": "profiles = Blueprint(\"profiles\", __name__, url_prefix=\"/profiles\")\n@profiles.route(\"/\", methods=[\"GET\"])\n@jwt_required\ndef get_profile():\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    profile = Profile.query.filter_by(user_id=user.user_id)\n    return jsonify(profile_schema.dump(profile))",
+        "detail": "src.controllers.profiles_controller",
+        "documentation": {}
+    },
+    {
+        "label": "retrieve_profile",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def retrieve_profile(id):\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    profile = Profile.query.filter_by(\n        profile_id=id, user_id=user.user_id).first()\n    if not profile:\n        return abort(404, description=\"No profile found\")\n    return profile",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "show_subs",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def show_subs():\n    # Show all subs\n    subs = Sub.query.options(joinedload(\"profile\")).all()\n    return jsonify(subs_schema.dump(subs))\n@subs.route(\"/<int:id>\", methods=[\"GET\"])\ndef sub_show(id):\n    # Show specific sub's posts\n    sub = Sub.query.filter_by(sub_id=id).first()\n    if not sub:\n        return abort(404, description=\"Sub not found\")",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "sub_show",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def sub_show(id):\n    # Show specific sub's posts\n    sub = Sub.query.filter_by(sub_id=id).first()\n    if not sub:\n        return abort(404, description=\"Sub not found\")\n    posts = Post.query.filter_by(sub_id=sub.sub_id)\n    return jsonify(sub_schema.dump(posts))\n@subs.route(\"/\", methods=[\"POST\"])\ndef create_sub():\n    # creates a sub",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_sub",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def create_sub():\n    # creates a sub\n    profile = retrieve_profile(request.args[\"profile_id\"])\n    sub_fields = sub_schema.load(request.json)\n    new_sub = Sub()\n    new_sub.sub_name = sub_fields[\"sub_name\"]\n    new_sub.description = sub_fields[\"description\"]\n    new_sub.profile_id = sub_fields[\"profile_id\"]\n    db.session.add(new_sub)\n    db.session.commit()",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_sub",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def delete_sub(id):\n    # deletes a sub\n    profile = retrieve_profile(request.args[\"profile_id\"])\n    sub_search = Sub.query.filter_by(sub_id=id).first()\n    if not sub_search:\n        return abort(404, description=\"Sub not found\")\n    db.session.delete(sub_search)\n    db.session.commit()\n    return jsonify(sub_schema.dump(sub_search))\n@subs.route(\"/<int:id>/post\", methods=[\"POST\"])",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_post",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def create_post(id):\n    # creates a post in a specific sub\n    profile = retrieve_profile(request.args[\"profile_id\"])\n    sub_search = Sub.query.filter_by(sub_id=id).first()\n    if not sub_search:\n        return abort(404, description=\"Sub not found\")\n    post_fields = post_schema.load(request.json)\n    new_post = Post()\n    new_post.post_name = post_fields[\"post_name\"]\n    new_post.post = post_fields[\"post\"]",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_post",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def delete_post(id):\n    # deletes a post in a specific sub\n    profile = retrieve_profile(request.args[\"profile_id\"])\n    sub_search = Sub.query.filter_by(sub_id=id).first()\n    if not sub_search:\n        return abort(404, description=\"Sub not found\")\n    post = post_schema.load(request.json, partial=True)\n    for item in sub_search.posts:\n        if item.post_id == post[\"post_id\"]:\n            sub_search.post.remove(item)",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_post",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def get_post(id, name):\n    # retrieves a specific post\n    pass\n@subs.route(\"/<int:id>/post/<string:name>/comment\")\ndef create_comment(id, name):\n    # creates a comment on a specific post\n    sub_search = Sub.query.filter_by(sub_id=id).first()\n    if not sub_search:\n        return abort(404, description=\"Sub not found\")\n    post_search = Post.query.filter_by(post_name=name).first()",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_comment",
+        "kind": 2,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "def create_comment(id, name):\n    # creates a comment on a specific post\n    sub_search = Sub.query.filter_by(sub_id=id).first()\n    if not sub_search:\n        return abort(404, description=\"Sub not found\")\n    post_search = Post.query.filter_by(post_name=name).first()\n    if not post_search:\n        return abort(404, description=\"Post not found\")\n    comment_field = comment_schema.load(request.json)\n    new_comment = Comment()",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "subs",
+        "kind": 5,
+        "importPath": "src.controllers.subs_controller",
+        "description": "src.controllers.subs_controller",
+        "peekOfCode": "subs = Blueprint(\"subs\", __name__, url_prefix=\"/subs\")\ndef retrieve_profile(id):\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    profile = Profile.query.filter_by(\n        profile_id=id, user_id=user.user_id).first()\n    if not profile:\n        return abort(404, description=\"No profile found\")",
+        "detail": "src.controllers.subs_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "src.controllers.users_controller",
+        "description": "src.controllers.users_controller",
+        "peekOfCode": "def get_user():\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    return jsonify(user_schema.dump(user))\n@users.route(\"/register\", methods=[\"POST\"])\ndef user_register():\n    user_fields = user_schema.load(request.json)\n    user = User.query.filter_by(email=user_fields[\"email\"].first())",
+        "detail": "src.controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "user_register",
+        "kind": 2,
+        "importPath": "src.controllers.users_controller",
+        "description": "src.controllers.users_controller",
+        "peekOfCode": "def user_register():\n    user_fields = user_schema.load(request.json)\n    user = User.query.filter_by(email=user_fields[\"email\"].first())\n    if user:\n        return abort(401, description=\"Email already in use\")\n    user = User()\n    user.full_name = user_fields[\"full_name\"]\n    user.email = user_fields[\"email\"]\n    user.create_password(user_fields[\"password\"])\n    db.session.add(user)",
+        "detail": "src.controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "user_login",
+        "kind": 2,
+        "importPath": "src.controllers.users_controller",
+        "description": "src.controllers.users_controller",
+        "peekOfCode": "def user_login():\n    user_fields = user_schema.load(request.json)\n    user = User.query.filter_by(email=user_fields[\"email\"]).first()\n    if not user or not user.check_password(user_fields[\"password\"]):\n        return abort(401, description=\"Invalid email and password\")\n    expiry = timedelta(days=1)\n    access_token = create_access_token(\n        identity=str(user.user_id), expires_delta=expiry\n    )\n    return jsonify({\"token\": access_token})",
+        "detail": "src.controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "src.controllers.users_controller",
+        "description": "src.controllers.users_controller",
+        "peekOfCode": "def update_user():\n    user_id = get_jwt_identity()\n    user = User.query.filter_by(user_id=user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    update_fields = user_schema.load(request.json, partial=True)\n    user.update(update_fields)\n    db.session.commit()\n    return jsonify(user_schema.dump(user[0]))\n@users.route(\"/\", methods=[\"DELETE\"])",
+        "detail": "src.controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "src.controllers.users_controller",
+        "description": "src.controllers.users_controller",
+        "peekOfCode": "def delete_user():\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(404, description=\"No user found\")\n    db.session.delete(user)\n    db.session.commit()\n    return jsonify(user_schema.dump(user))",
+        "detail": "src.controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "kind": 5,
+        "importPath": "src.controllers.users_controller",
+        "description": "src.controllers.users_controller",
+        "peekOfCode": "users = Blueprint(\"users\", __name__, url_prefix=\"/users\")\n@users.route(\"/\", methods=[\"GET\"])\n@jwt_required\ndef get_user():\n    user_id = get_jwt_identity()\n    user = User.query.get(user_id)\n    if not user:\n        return abort(401, description=\"No user found\")\n    return jsonify(user_schema.dump(user))\n@users.route(\"/register\", methods=[\"POST\"])",
+        "detail": "src.controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "registerable_controllers",
+        "kind": 5,
+        "importPath": "src.controllers.__init__",
+        "description": "src.controllers.__init__",
+        "peekOfCode": "registerable_controllers = [\n    users,\n    profiles,\n    subs\n]",
+        "detail": "src.controllers.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "src.models.Comment",
+        "description": "src.models.Comment",
+        "peekOfCode": "class Comment(db.Model):\n    \"\"\"Model to represent comments on posts\"\"\"\n    __tablename__ = \"comments\"\n    comment_id = db.Column(db.Integer, primary_key=True)\n    comment = db.Column(db.Text, nullable=False)\n    profile_id = db.Column(\n        db.Integer, db.ForeignKey(\"profile.profile_id\", nullable=False)\n    )\n    post_id = db.Column(\n        db.Integer, db.ForeignKey(\"post.post_id\", nullable=False)",
+        "detail": "src.models.Comment",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "src.models.Post",
+        "description": "src.models.Post",
+        "peekOfCode": "class Post(db.Model):\n    \"\"\"Model to represent the posts on sub-sections\"\"\"\n    __tablename__ = \"posts\"\n    post_id = db.Column(db.Integer, primary_key=True)\n    post_name = db.Column(db.String(), nullable=False)\n    post = db.Column(db.Text, nullable=False)\n    profile_id = db.Column(\n        db.Integer, db.ForeignKey(\"profile.profile_id\", nullable=False)\n    )\n    sub_id = db.Column(",
+        "detail": "src.models.Post",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "src.models.Profile",
+        "description": "src.models.Profile",
+        "peekOfCode": "class Profile(db.Model):\n    \"\"\"Model to represent a user's profile\"\"\"\n    __tablename__ = \"profiles\"\n    profile_id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(), nullable=False)\n    about = db.Column(db.String(), nullable=False)\n    user_id = db.Column(\n        db.Integer, db.ForeignKey(\"users.user_id\"), nullable=False\n    )\n    subs = db.relationship(",
+        "detail": "src.models.Profile",
+        "documentation": {}
+    },
+    {
+        "label": "Sub",
+        "kind": 6,
+        "importPath": "src.models.Sub",
+        "description": "src.models.Sub",
+        "peekOfCode": "class Sub(db.model):\n    \"\"\"Model to represent a sub-section of the website\"\"\"\n    __tablename__ = \"subs\"\n    sub_id = db.Column(db.Integer, primary_key=True)\n    sub_name = db.Column(db.String(), nullable=False)\n    description = db.Column(db.Text, nullable=False)\n    profile_id = db.Column(\n        db.Integer, db.ForeignKey(\"profile.profile_id\", nullable=False)\n    )\n    posts = db.relationship(",
+        "detail": "src.models.Sub",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "src.models.User",
+        "description": "src.models.User",
+        "peekOfCode": "class User(UserMixin, db.Model):\n    __tablename__ = \"users\"\n    user_id = db.Column(db.Integer, primary_key=True)\n    full_name = db.Column(db.String(), nullable=False)\n    email = db.Column(db.String(), nullable=False, unique=True)\n    password = db.Column(db.String(), nullable=False)\n    profiles = db.relationship(\n        \"Profile\", backref=\"user\", lazy=\"dynamic\", cascade=\"all, delete, delete-orphan\"\n    )\n    def create_password(self, password):",
+        "detail": "src.models.User",
+        "documentation": {}
+    },
+    {
+        "label": "CommentSchema",
+        "kind": 6,
+        "importPath": "src.schemas.CommentSchema",
+        "description": "src.schemas.CommentSchema",
+        "peekOfCode": "class CommentSchema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = Comment\n    comment = ma.String(required=True, validate=Length(min=1))\ncomment_schema = CommentSchema()\ncomments_schema = CommentSchema(many=True)",
+        "detail": "src.schemas.CommentSchema",
+        "documentation": {}
+    },
+    {
+        "label": "comment_schema",
+        "kind": 5,
+        "importPath": "src.schemas.CommentSchema",
+        "description": "src.schemas.CommentSchema",
+        "peekOfCode": "comment_schema = CommentSchema()\ncomments_schema = CommentSchema(many=True)",
+        "detail": "src.schemas.CommentSchema",
+        "documentation": {}
+    },
+    {
+        "label": "comments_schema",
+        "kind": 5,
+        "importPath": "src.schemas.CommentSchema",
+        "description": "src.schemas.CommentSchema",
+        "peekOfCode": "comments_schema = CommentSchema(many=True)",
+        "detail": "src.schemas.CommentSchema",
+        "documentation": {}
+    },
+    {
+        "label": "PostSchema",
+        "kind": 6,
+        "importPath": "src.schemas.PostSchema",
+        "description": "src.schemas.PostSchema",
+        "peekOfCode": "class PostSchema(ma.SQLAlchemyAutoSchema):\n    class meta:\n        model = Post\n    post_name = ma.String(required=True, validate=Length(min=1))\n    post = ma.String(required=True, validate=Length(min=1))\n    comments = ma.Nested(comments_schema)\npost_schema = PostSchema()\nposts_schema = PostSchema(many=True)",
+        "detail": "src.schemas.PostSchema",
+        "documentation": {}
+    },
+    {
+        "label": "post_schema",
+        "kind": 5,
+        "importPath": "src.schemas.PostSchema",
+        "description": "src.schemas.PostSchema",
+        "peekOfCode": "post_schema = PostSchema()\nposts_schema = PostSchema(many=True)",
+        "detail": "src.schemas.PostSchema",
+        "documentation": {}
+    },
+    {
+        "label": "posts_schema",
+        "kind": 5,
+        "importPath": "src.schemas.PostSchema",
+        "description": "src.schemas.PostSchema",
+        "peekOfCode": "posts_schema = PostSchema(many=True)",
+        "detail": "src.schemas.PostSchema",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileSchema",
+        "kind": 6,
+        "importPath": "src.schemas.ProfileSchema",
+        "description": "src.schemas.ProfileSchema",
+        "peekOfCode": "class ProfileSchema(ma.SQLAlchemyAutoSchema):\n    class meta:\n        model = Profile\n    username = ma.String(required=True, validate=Length(min=2))\n    about = ma.String(required=True, validate=Length(min=4))\n    user = ma.Nested(UserSchema)\n    subs = ma.Nested(subs_schema)\n    posts = ma.Nested(posts_schema)\n    comments = ma.Nested(comments_schema)\nprofile_schema = ProfileSchema()",
+        "detail": "src.schemas.ProfileSchema",
+        "documentation": {}
+    },
+    {
+        "label": "profile_schema",
+        "kind": 5,
+        "importPath": "src.schemas.ProfileSchema",
+        "description": "src.schemas.ProfileSchema",
+        "peekOfCode": "profile_schema = ProfileSchema()\nprofiles_schema = ProfileSchema(many=True)",
+        "detail": "src.schemas.ProfileSchema",
+        "documentation": {}
+    },
+    {
+        "label": "profiles_schema",
+        "kind": 5,
+        "importPath": "src.schemas.ProfileSchema",
+        "description": "src.schemas.ProfileSchema",
+        "peekOfCode": "profiles_schema = ProfileSchema(many=True)",
+        "detail": "src.schemas.ProfileSchema",
+        "documentation": {}
+    },
+    {
+        "label": "SubSchema",
+        "kind": 6,
+        "importPath": "src.schemas.SubsSchema",
+        "description": "src.schemas.SubsSchema",
+        "peekOfCode": "class SubSchema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = Sub\n    sub_name = ma.String(required=True, validate=Length(min=4))\n    description = ma.String(required=True, validate=Length(min=4))\n    posts = ma.Nested(posts_schema)\nsub_schema = SubSchema()\nsubs_schema = SubSchema(many=True)",
+        "detail": "src.schemas.SubsSchema",
+        "documentation": {}
+    },
+    {
+        "label": "sub_schema",
+        "kind": 5,
+        "importPath": "src.schemas.SubsSchema",
+        "description": "src.schemas.SubsSchema",
+        "peekOfCode": "sub_schema = SubSchema()\nsubs_schema = SubSchema(many=True)",
+        "detail": "src.schemas.SubsSchema",
+        "documentation": {}
+    },
+    {
+        "label": "subs_schema",
+        "kind": 5,
+        "importPath": "src.schemas.SubsSchema",
+        "description": "src.schemas.SubsSchema",
+        "peekOfCode": "subs_schema = SubSchema(many=True)",
+        "detail": "src.schemas.SubsSchema",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "kind": 6,
+        "importPath": "src.schemas.UserSchema",
+        "description": "src.schemas.UserSchema",
+        "peekOfCode": "class UserSchema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = User\n        load_only = [\"password\"]\n    full_name = ma.String(required=True, validate=Length(min=3))\n    email = ma.String(required=True, validate=Length(min=6))\n    password = ma.String(required=True, validate=Length(min=6))\nuser_schema = UserSchema()\nusers_schema = UserSchema(many=True)",
+        "detail": "src.schemas.UserSchema",
+        "documentation": {}
+    },
+    {
+        "label": "user_schema",
+        "kind": 5,
+        "importPath": "src.schemas.UserSchema",
+        "description": "src.schemas.UserSchema",
+        "peekOfCode": "user_schema = UserSchema()\nusers_schema = UserSchema(many=True)",
+        "detail": "src.schemas.UserSchema",
+        "documentation": {}
+    },
+    {
+        "label": "users_schema",
+        "kind": 5,
+        "importPath": "src.schemas.UserSchema",
+        "description": "src.schemas.UserSchema",
+        "peekOfCode": "users_schema = UserSchema(many=True)",
+        "detail": "src.schemas.UserSchema",
+        "documentation": {}
+    },
+    {
+        "label": "Helpers",
+        "kind": 6,
+        "importPath": "src.tests.helpers",
+        "description": "src.tests.helpers",
+        "peekOfCode": "class Helpers():\n    app = create_app()\n    client = app.test_client()\n    @classmethod\n    def post_request(cls, endpoint, header=None, body=None):\n        response = cls.client.post(endpoint, headers=header, json=body)\n        data = response.get_json()\n        return (response, data)\n    @classmethod\n    def get_request(cls, endpoint, header=None):",
+        "detail": "src.tests.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "TestBooks",
+        "kind": 6,
+        "importPath": "src.tests.test_users",
+        "description": "src.tests.test_users",
+        "peekOfCode": "class TestBooks(unittest.TestCase):\n    @classmethod\n    def setUp(cls):\n        cls.app = create_app()\n        cls.app_context = cls.app.app_context()\n        cls.app_context.push()\n        cls.client = cls.app.test_client()\n        db.create_all()\n        runner = cls.app.test_cli_runner()\n        runner.invoke(args=[\"db-custom\", \"seed\"])",
+        "detail": "src.tests.test_users",
+        "documentation": {}
+    },
+    {
+        "label": "create_db",
+        "kind": 2,
+        "importPath": "src.commands",
+        "description": "src.commands",
+        "peekOfCode": "def create_db():\n    db.create_all()\n    print(\"Tables created!\")\n@db_commands.cli.command(\"drop\")\ndef drop_db():\n    db.drop_all()\n    print(\"Tables deleted!\")\n@db_commands.cli.command(\"seed\")\ndef seed_db():\n    from models.User import User",
+        "detail": "src.commands",
+        "documentation": {}
+    },
+    {
+        "label": "drop_db",
+        "kind": 2,
+        "importPath": "src.commands",
+        "description": "src.commands",
+        "peekOfCode": "def drop_db():\n    db.drop_all()\n    print(\"Tables deleted!\")\n@db_commands.cli.command(\"seed\")\ndef seed_db():\n    from models.User import User\n    from models.Profile import Profile\n    from models.Sub import Sub\n    from models.Post import Post\n    from models.Comment import Comment",
+        "detail": "src.commands",
+        "documentation": {}
+    },
+    {
+        "label": "seed_db",
+        "kind": 2,
+        "importPath": "src.commands",
+        "description": "src.commands",
+        "peekOfCode": "def seed_db():\n    from models.User import User\n    from models.Profile import Profile\n    from models.Sub import Sub\n    from models.Post import Post\n    from models.Comment import Comment\n    from main import bcrypt\n    import random\n    from faker import Faker\n    faker = Faker()",
+        "detail": "src.commands",
+        "documentation": {}
+    },
+    {
+        "label": "db_commands",
+        "kind": 5,
+        "importPath": "src.commands",
+        "description": "src.commands",
+        "peekOfCode": "db_commands = Blueprint(\"db-custom\", __name__)\n@db_commands.cli.command(\"create\")\ndef create_db():\n    db.create_all()\n    print(\"Tables created!\")\n@db_commands.cli.command(\"drop\")\ndef drop_db():\n    db.drop_all()\n    print(\"Tables deleted!\")\n@db_commands.cli.command(\"seed\")",
+        "detail": "src.commands",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "src.default_setings",
+        "description": "src.default_setings",
+        "peekOfCode": "class Config(object):\n    SQLALCHEMY_DATABASE_URI = os.getenv(\"DB_URI\")\n    SQLALCHEMY_TRACK_MODIFICATIONS = False\n    JWT_SECRET_KEY = \"pythreddit\"\n    SECRET_KEY = \"Authkey\"\n    @property\n    def SQLALCHEMY_DATABASE_URI(self):\n        return get_from_env(\"DB_URI\")\nclass DevelopmentConfig(Config):\n    DEBUG = True",
+        "detail": "src.default_setings",
+        "documentation": {}
+    },
+    {
+        "label": "DevelopmentConfig",
+        "kind": 6,
+        "importPath": "src.default_setings",
+        "description": "src.default_setings",
+        "peekOfCode": "class DevelopmentConfig(Config):\n    DEBUG = True\n    SESSION_COOKIE_HTTPONLY = True\n    REMEMBER_COOKIE_HTTPONLY = True\nclass ProductionConfig(Config):\n    @property\n    def JWT_SECRET_KEY(self):\n        return get_from_env(\"JWT_SECRET_KEY\")\n    @property\n    def SECRET_KEY(self):",
+        "detail": "src.default_setings",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionConfig",
+        "kind": 6,
+        "importPath": "src.default_setings",
+        "description": "src.default_setings",
+        "peekOfCode": "class ProductionConfig(Config):\n    @property\n    def JWT_SECRET_KEY(self):\n        return get_from_env(\"JWT_SECRET_KEY\")\n    @property\n    def SECRET_KEY(self):\n        return get_from_env(\"SECRET KEY\")\n    SESSION_COOKIE_HTTPONLY = True\n    REMEMBER_COOKIE_HTTPONLY = True\nclass TestingConfig(Config):",
+        "detail": "src.default_setings",
+        "documentation": {}
+    },
+    {
+        "label": "TestingConfig",
+        "kind": 6,
+        "importPath": "src.default_setings",
+        "description": "src.default_setings",
+        "peekOfCode": "class TestingConfig(Config):\n    TESTING = True\nenvironment = os.environ.get(\"FLASK_ENV\")\nif environment == \"production\":\n    app_config = ProductionConfig()\nelif environment == \"testing\":\n    app_config = TestingConfig()\nelse:\n    app_config = DevelopmentConfig()",
+        "detail": "src.default_setings",
+        "documentation": {}
+    },
+    {
+        "label": "get_from_env",
+        "kind": 2,
+        "importPath": "src.default_setings",
+        "description": "src.default_setings",
+        "peekOfCode": "def get_from_env(var):\n    value = os.environ.get(var)\n    if not value:\n        raise ValueError(f\"{var} is not set!\")\n    return value\nclass Config(object):\n    SQLALCHEMY_DATABASE_URI = os.getenv(\"DB_URI\")\n    SQLALCHEMY_TRACK_MODIFICATIONS = False\n    JWT_SECRET_KEY = \"pythreddit\"\n    SECRET_KEY = \"Authkey\"",
+        "detail": "src.default_setings",
+        "documentation": {}
+    },
+    {
+        "label": "environment",
+        "kind": 5,
+        "importPath": "src.default_setings",
+        "description": "src.default_setings",
+        "peekOfCode": "environment = os.environ.get(\"FLASK_ENV\")\nif environment == \"production\":\n    app_config = ProductionConfig()\nelif environment == \"testing\":\n    app_config = TestingConfig()\nelse:\n    app_config = DevelopmentConfig()",
+        "detail": "src.default_setings",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def create_app():\n    app = Flask(__name__)\n    app.config.from_object(\"default_settings.app_config\")\n    db.init_app(app)\n    ma.init_app(app)\n    bcrypt.init_app(app)\n    jwt.init_app(app)\n    migrate.init_app(app, db)\n    login_manager.init_app(app)\n    from commands import db_commands",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "db = SQLAlchemy()\nma = Marshmallow()\nbcrypt = Bcrypt()\njwt = JWTManager()\nmigrate = Migrate()\nlogin_manager = LoginManager()\ndef create_app():\n    app = Flask(__name__)\n    app.config.from_object(\"default_settings.app_config\")\n    db.init_app(app)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "ma = Marshmallow()\nbcrypt = Bcrypt()\njwt = JWTManager()\nmigrate = Migrate()\nlogin_manager = LoginManager()\ndef create_app():\n    app = Flask(__name__)\n    app.config.from_object(\"default_settings.app_config\")\n    db.init_app(app)\n    ma.init_app(app)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "bcrypt = Bcrypt()\njwt = JWTManager()\nmigrate = Migrate()\nlogin_manager = LoginManager()\ndef create_app():\n    app = Flask(__name__)\n    app.config.from_object(\"default_settings.app_config\")\n    db.init_app(app)\n    ma.init_app(app)\n    bcrypt.init_app(app)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "jwt = JWTManager()\nmigrate = Migrate()\nlogin_manager = LoginManager()\ndef create_app():\n    app = Flask(__name__)\n    app.config.from_object(\"default_settings.app_config\")\n    db.init_app(app)\n    ma.init_app(app)\n    bcrypt.init_app(app)\n    jwt.init_app(app)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "migrate = Migrate()\nlogin_manager = LoginManager()\ndef create_app():\n    app = Flask(__name__)\n    app.config.from_object(\"default_settings.app_config\")\n    db.init_app(app)\n    ma.init_app(app)\n    bcrypt.init_app(app)\n    jwt.init_app(app)\n    migrate.init_app(app, db)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "login_manager",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "login_manager = LoginManager()\ndef create_app():\n    app = Flask(__name__)\n    app.config.from_object(\"default_settings.app_config\")\n    db.init_app(app)\n    ma.init_app(app)\n    bcrypt.init_app(app)\n    jwt.init_app(app)\n    migrate.init_app(app, db)\n    login_manager.init_app(app)",
+        "detail": "src.main",
+        "documentation": {}
+    }
+]
